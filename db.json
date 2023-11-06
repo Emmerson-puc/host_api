@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "ranking": 1,
+    "link": "https://www.google.com",
+    "votos": 130.258
+  },
+  {
+    "id": 2,
+    "ranking": 2,
+    "link": "https://www.bing.com",
+    "votos": 130.015
+  },
+  {
+    "id": 3,
+    "ranking": 3,
+    "link": "https://www.gmail.com/",
+    "votos": 129.998
+  },
+    {
+    "id": 4,
+    "ranking": 4,
+    "link": "https://www.github.com",
+    "votos": 128.258
+  },
+  {
+    "id": 5,
+    "ranking": 5,
+    "link": "https://scholar.google.com",
+    "votos": 128.015
+  },
+  {
+    "id": 6,
+    "ranking": 6,
+    "link": "https://scielo.br/",
+    "votos": 127.998
+  },
+  {
+    "id": 7,
+    "ranking": 7,
+    "link": "https://www.amazon.com",
+    "votos": 126.258
+  },
+  {
+    "id": 8,
+    "ranking": 8,
+    "link": "https://www.mercadolivre.com.br",
+    "votos": 126.015
+  },
+  {
+    "id": 9,
+    "ranking": 9,
+    "link": "https://www.americanas.com/",
+    "votos": 125.998
+  },
+  {
+    "id": 10,
+    "ranking": 10,
+    "link": "https://www.submarino.com/",
+    "votos": 124.998
+  }
+]
+
