@@ -1,20 +1,23 @@
-[
-  {
-    "id": 1,
-    "titulo": "Exemplo 1",
-    "texto": "Este é o texto do exemplo 1.",
-    "data": "22/11/2023"
-  },
-  {
-    "id": 2,
-    "titulo": "Exemplo 2",
-    "texto": "Este é o texto do exemplo 2.",
-    "data": "23/11/2023"
-  },
-  {
-    "id": 3,
-    "titulo": "Exemplo 3",
-    "texto": "Este é o texto do exemplo 3.",
-    "data": "24/11/2023"
-  }
-]
+{
+  "foto": "caminho/para/a/foto.jpg",
+  "avaliacoes": [
+    {
+      "id": 1,
+      "titulo": "Exemplo 1",
+      "texto": "Este é o texto do exemplo 1.",
+      "data": "22/11/2023",
+    },
+    {
+      "id": 2,
+      "titulo": "Exemplo 2",
+      "texto": "Este é o texto do exemplo 2.",
+      "data": "23/11/2023",
+    },
+    {
+      "id": 3,
+      "titulo": "Exemplo 3",
+      "texto": "Este é o texto do exemplo 3.",
+      "data": "24/11/2023",
+    }
+  ]
+}
